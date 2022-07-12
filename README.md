@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/bundlephobia/minzip/react-simple-maps?color=%2328cb95&label=gzip" />
 
-# react-simple-maps
+# nowigence-react-simple-maps
 
 Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
 
@@ -14,16 +14,16 @@ Since `react-simple-maps` leaves DOM work to react, it can also easily be used w
 
 ### Install
 
-To install `react-simple-maps`
+To install `nowigence-react-simple-maps`
 
 ```bash
-$ npm install --save react-simple-maps
+$ npm install --save nowigence-react-simple-maps
 ```
 
 ...or if you use yarn:
 
 ```bash
-$ yarn add react-simple-maps
+$ yarn add nowigence-react-simple-maps
 ```
 
 ### Usage
@@ -70,7 +70,7 @@ For other examples and components, check out the [documentation](https://www.rea
 
 React-simple-maps does not restrict you to one specific map and relies on custom map files that you can modify in any way necessary for the project. This means that you can visualise countries, regions, and continents in various resolutions, as long as they can be represented using geojson/topojson.
 
-In order for this to work properly, you will however need to provide these valid map files to react-simple-maps yourself. Luckily, there are decent sources for map files on github and elsewhere. Here are some you can check out:
+In order for this to work properly, you will however need to provide these valid map files to nowigence-react-simple-maps yourself. Luckily, there are decent sources for map files on github and elsewhere. Here are some you can check out:
 
 * [Natural Earth](https://github.com/nvkelso/natural-earth-vector)
 * [Topojson maps by @deldersveld](https://github.com/deldersveld/topojson)

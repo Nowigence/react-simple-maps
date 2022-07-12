@@ -1,6 +1,6 @@
 {
-  "name": "react-simple-maps",
-  "version": "3.0.0-beta.4",
+  "name": "nowigence-react-simple-maps",
+  "version": "1.0.0-beta.4",
   "description": "An svg map chart component built with and for React",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zcreativelabs/react-simple-maps.git"
+    "url": "git+https://github.com/Nowigence/react-simple-maps.git"
   },
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
     "usa",
     "d3-geo"
   ],
-  "author": "Richard Zimerman <richard@zcreativelabs.com> (https://github.com/zimrick)",
+  "author": "Nowigence",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zcreativelabs/react-simple-maps/issues"
